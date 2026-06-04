@@ -13,7 +13,7 @@
 SNOTEL data can be downloaded from this [link](https://wcc.sc.egov.usda.gov/nwcc/tabget). The filtered version of the dataset (i.e., the variable `allStateDict_filtered` is the analysis scripts) can be loaded with the following line of code if you don't have the SNOTEL data downloaded:
 `allStateDict_filtered = np.load('...../data/allStateDict_filtered.npz',allow_pickle=True)['allStateDict_filtered'].item()`
 
-The file allStateDict_filtered.npz is located in the Zenodo repository associated with this work.
+The file allStateDict_filtered.npz is located in the [Zenodo repository](https://doi.org/10.5281/zenodo.20534799) associated with this work.
 
 
 

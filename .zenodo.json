@@ -19,7 +19,7 @@
     "access_right": "open",
     "related_identifiers": [
         {
-            "identifier": "https://doi.org/10.5281/zenodo.20534800",
+            "identifier": "",
             "relation": "isSupplementTo",
             "resource_type": "publication-article"
         }
